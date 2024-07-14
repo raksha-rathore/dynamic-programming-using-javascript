@@ -6,3 +6,4 @@ Dynamic Programming (DP) is defined as a technique that solves some particular t
 The Problems include:
 1. The Coin Change Problem.
 2. The modified Fibonacci series
+3. Longest common subsequence
